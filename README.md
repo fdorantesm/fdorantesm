@@ -96,6 +96,7 @@ society letting people gain money and improve them quality life.
   
   - 📦 [Gosp Sass](https://gosp-sass.com)
   - 📦 [Envpack](https://npmjs.com/package/envpack)
+  - 📦 [Moppet](https://npmjs.com/package/moppet)
   - 📦 [AsynkStorage](https://npmjs.com/package/asynkstorage)
   - 📦 [AsApp](https://npmjs.com/package/asapp)
   - 🎮 [Wordle API](https://github.com/fdorantesm/wordle-api)
