@@ -87,7 +87,11 @@ society letting people gain money and improve them quality life.
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fdorantesm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdorantesm&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=jolly" align="center" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdorantesm&layout=compact&langs_count=16&theme=jolly"/>
+</div>  
+<!-- GITHUB STATUS -->
 
 <br/>  
 
