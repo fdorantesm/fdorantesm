@@ -11,16 +11,25 @@ society letting people gain money and improve them quality life.
   
 
 - 🔭 I’m currently working on [MoradaMX](https://github.com/moradaMX)
-  
-
-- 🌱 I’m currently learning React Native and NextJS  
-  
-
-- ❓ Ask me about anything related to Node stacks and related technologies  
-  
-
+- 🌱 I’m currently learning React Native and NextJS
+- ❓ Ask me about anything related to Node stacks and related technologies
 - 📄 Get my resume [here](https://s3.us-east-2.amazonaws.com/dorant.es/cv-full-stack-developer-fernando-dorantes.pdf)  
+
+
+## Featured projects  
   
+  - 📦 [Gosp Sass](https://gosp-sass.com)
+  - 📦 [Envpack](https://npmjs.com/package/envpack)
+  - 📦 [Moppet](https://npmjs.com/package/moppet)
+  - 📦 [AsynkStorage](https://npmjs.com/package/asynkstorage)
+  - 📦 [AsApp](https://npmjs.com/package/asapp)
+  - 🎮 [Wordle API](https://github.com/fdorantesm/wordle-api)
+  - 🪣 [NestJS Examples](https://github.com/nestjs-examples)
+  - 🪣 [NestJS Latam](https://github.com/nestjs-latam)
+  - 🔗 [The Healthy Program](https://thehealthyprogram.com)
+
+<br/>  
+<br/>  
 
 <br/>  
 
@@ -93,24 +102,7 @@ society letting people gain money and improve them quality life.
 </div>  
 <!-- GITHUB STATUS -->
 
-<br/>  
-
-
-## Featured projects  
-  
-  - 📦 [Gosp Sass](https://gosp-sass.com)
-  - 📦 [Envpack](https://npmjs.com/package/envpack)
-  - 📦 [Moppet](https://npmjs.com/package/moppet)
-  - 📦 [AsynkStorage](https://npmjs.com/package/asynkstorage)
-  - 📦 [AsApp](https://npmjs.com/package/asapp)
-  - 🎮 [Wordle API](https://github.com/fdorantesm/wordle-api)
-  - 🪣 [NestJS Examples](https://github.com/nestjs-examples)
-  - 🪣 [NestJS Examples](https://github.com/nestjs-examples)
-  - 🪣 [NestJS Latam](https://github.com/nestjs-latam)
-  - 🔗 [The Healthy Program](https://thehealthyprogram.com)
-
-<br/>  
-<br/>  
+<br/>
 
 <div align="center">
 <a href="https://github.com/fdorantesm" target="_blank">
