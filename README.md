@@ -33,7 +33,7 @@ society letting people gain money and improve them quality life.
 
   - 🪣 (NestJS & MongoDB) [Out of Orbit Parcel Service](https://github.com/fdorantesm/out-of-orbit-parcel-service)
   - 🪣 (NestJS & MongoDB) [Wordle API](https://github.com/fdorantesm/wordle-api)
-  - 🪣 (NestJS & MongoDB) [Wordle API](https://github.com/fdorantesm/dna)
+  - 🪣 (NestJS & MongoDB) [DNA API](https://github.com/fdorantesm/dna)
   - 🪣 (NestJS & PostgreSQL) [Another Technical Test](https://github.com/fdorantesm/another-technical-test)
 
 
