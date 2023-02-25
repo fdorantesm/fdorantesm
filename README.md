@@ -23,21 +23,29 @@ society letting people gain money and improve them quality life.
   - 📦 [Moppet](https://npmjs.com/package/moppet)
   - 📦 [AsynkStorage](https://npmjs.com/package/asynkstorage)
   - 📦 [AsApp](https://npmjs.com/package/asapp)
-  - 🎮 [Wordle API](https://github.com/fdorantesm/wordle-api)
-  - 🪣 [NestJS Examples](https://github.com/nestjs-examples)
-  - 🪣 [NestJS Latam](https://github.com/nestjs-latam)
   - 🔗 [The Healthy Program](https://thehealthyprogram.com)
 
-<br/>  
-<br/>  
+## Organizations I work on 
+  - 🪣 [NestJS Examples](https://github.com/nestjs-examples)
+  - 🪣 [NestJS Latam](https://github.com/nestjs-latam)
+
+## Technical challenges I made
+
+  - 🪣 (NestJS & MongoDB) [Out of Orbit Parcel Service](https://github.com/fdorantesm/out-of-orbit-parcel-service)
+  - 🪣 (NestJS & PostgreSQL) [Out of Orbit Parcel Service](https://github.com/fdorantesm/another-technical-test)
+  - 🪣 (NestJS & MongoDB) [Wordle API](https://github.com/fdorantesm/wordle-api)
+  - 🪣 (NestJS & MongoDB) [Wordle API](https://github.com/fdorantesm/dna)
+
+
+## Templates
+
+- 🪣 (NestJS & MongoDB) [Scaffolding App](https://github.com/fdorantesm/nestjs-mongodb-app)
 
 <br/>  
-
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
