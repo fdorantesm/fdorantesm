@@ -17,7 +17,9 @@ society letting people gain money and improve them quality life.
 
 
 ## Featured projects  
+
 <br>
+
 - 📦 [Gosp Sass](https://gosp-sass.com)
 - 📦 [Envpack](https://npmjs.com/package/envpack)
 - 📦 [Moppet](https://npmjs.com/package/moppet)
@@ -25,21 +27,26 @@ society letting people gain money and improve them quality life.
 - 📦 [AsApp](https://npmjs.com/package/asapp)
 - 🔗 [The Healthy Program](https://thehealthyprogram.com)
   
-<br>
 ## Organizations I'm working on 
+
 <br>
+
 - 🪣 [NestJS Examples](https://github.com/nestjs-examples)
 - 🪣 [NestJS Latam](https://github.com/nestjs-latam)
 
 ## Technical challenges I made
+
 <br>
+
 - 🪣 (NestJS & MongoDB) [Out of Orbit Parcel Service](https://github.com/fdorantesm/out-of-orbit-parcel-service)
 - 🪣 (NestJS & MongoDB) [Wordle API](https://github.com/fdorantesm/wordle-api)
 - 🪣 (NestJS & MongoDB) [DNA API](https://github.com/fdorantesm/dna)
 - 🪣 (NestJS & PostgreSQL) [Another Technical Test](https://github.com/fdorantesm/another-technical-test)
   
 ## Templates
+
 <br>
+
 - 🪣 (NestJS & Docker) [Another Technical Test](https://github.com/fdorantesm/docker-and-docker-compose)
 - 🪣 (NestJS & MongoDB) [Scaffolding App](https://github.com/fdorantesm/nestjs-mongodb-app
 - 🪣 (NestJS & Docker) [Another Technical Test](https://github.com/fdorantesm/nest-microservices-with-docker)
