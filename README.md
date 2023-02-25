@@ -32,9 +32,9 @@ society letting people gain money and improve them quality life.
 ## Technical challenges I made
 
   - 🪣 (NestJS & MongoDB) [Out of Orbit Parcel Service](https://github.com/fdorantesm/out-of-orbit-parcel-service)
-  - 🪣 (NestJS & PostgreSQL) [Out of Orbit Parcel Service](https://github.com/fdorantesm/another-technical-test)
   - 🪣 (NestJS & MongoDB) [Wordle API](https://github.com/fdorantesm/wordle-api)
   - 🪣 (NestJS & MongoDB) [Wordle API](https://github.com/fdorantesm/dna)
+  - 🪣 (NestJS & PostgreSQL) [Another Technical Test](https://github.com/fdorantesm/another-technical-test)
 
 
 ## Templates
