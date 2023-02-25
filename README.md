@@ -18,25 +18,25 @@ society letting people gain money and improve them quality life.
 
 ## Featured projects  
 <br>
-  - 📦 [Gosp Sass](https://gosp-sass.com)
-  - 📦 [Envpack](https://npmjs.com/package/envpack)
-  - 📦 [Moppet](https://npmjs.com/package/moppet)
-  - 📦 [AsynkStorage](https://npmjs.com/package/asynkstorage)
-  - 📦 [AsApp](https://npmjs.com/package/asapp)
-  - 🔗 [The Healthy Program](https://thehealthyprogram.com)
+- 📦 [Gosp Sass](https://gosp-sass.com)
+- 📦 [Envpack](https://npmjs.com/package/envpack)
+- 📦 [Moppet](https://npmjs.com/package/moppet)
+- 📦 [AsynkStorage](https://npmjs.com/package/asynkstorage)
+- 📦 [AsApp](https://npmjs.com/package/asapp)
+- 🔗 [The Healthy Program](https://thehealthyprogram.com)
   
 <br>
 ## Organizations I'm working on 
 <br>
-  - 🪣 [NestJS Examples](https://github.com/nestjs-examples)
-  - 🪣 [NestJS Latam](https://github.com/nestjs-latam)
+- 🪣 [NestJS Examples](https://github.com/nestjs-examples)
+- 🪣 [NestJS Latam](https://github.com/nestjs-latam)
 
 ## Technical challenges I made
 <br>
-  - 🪣 (NestJS & MongoDB) [Out of Orbit Parcel Service](https://github.com/fdorantesm/out-of-orbit-parcel-service)
-  - 🪣 (NestJS & MongoDB) [Wordle API](https://github.com/fdorantesm/wordle-api)
-  - 🪣 (NestJS & MongoDB) [DNA API](https://github.com/fdorantesm/dna)
-  - 🪣 (NestJS & PostgreSQL) [Another Technical Test](https://github.com/fdorantesm/another-technical-test)
+- 🪣 (NestJS & MongoDB) [Out of Orbit Parcel Service](https://github.com/fdorantesm/out-of-orbit-parcel-service)
+- 🪣 (NestJS & MongoDB) [Wordle API](https://github.com/fdorantesm/wordle-api)
+- 🪣 (NestJS & MongoDB) [DNA API](https://github.com/fdorantesm/dna)
+- 🪣 (NestJS & PostgreSQL) [Another Technical Test](https://github.com/fdorantesm/another-technical-test)
   
 ## Templates
 <br>
