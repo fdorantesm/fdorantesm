@@ -47,12 +47,12 @@ society letting people gain money and improve them quality life.
 
 <br>
 
-- 🪣 (NestJS & Docker) [Another Technical Test](https://github.com/fdorantesm/docker-and-docker-compose)
-- 🪣 (NestJS & MongoDB) [Scaffolding App](https://github.com/fdorantesm/nestjs-mongodb-app
-- 🪣 (NestJS & Docker) [Another Technical Test](https://github.com/fdorantesm/nest-microservices-with-docker)
-- 🪣 [NestJS Examples](https://github.com/nestjs-with-docker)
+- 🪣 (NestJS & Docker) [Docker and Docker Compose](https://github.com/fdorantesm/docker-and-docker-compose)
+- 🪣 (NestJS & MongoDB) [Scaffolding App](https://github.com/fdorantesm/nestjs-mongodb-app)
+- 🪣 (NestJS & Docker) [NestJS Microservices with Docker](https://github.com/fdorantesm/nest-microservices-with-docker)
+- 🪣 (NestJS & Docker) [NestJS with Docker](https://github.com/nestjs-with-docker)
 - 🪣 (NestJS & Kafka) [Kafka Microservice](https://github.com/fdorantesm/kafka-microservice)
-- 🪣 (NestJS) [Kafka Microservice](https://github.com/fdorantesm/nestjs-passport-apikey-authentication)
+- 🪣 (NestJS & Passport) [NestJS Passport Api Key Auth](https://github.com/fdorantesm/nestjs-passport-apikey-authentication)
 
 
 <br/>  
