@@ -25,6 +25,7 @@ society letting people gain money and improve them quality life.
 - 📦 [Moppet](https://npmjs.com/package/moppet)
 - 📦 [AsynkStorage](https://npmjs.com/package/asynkstorage)
 - 📦 [AsApp](https://npmjs.com/package/asapp)
+- 📦 [ElasticTranscoderModule](https://npmjs.com/package/nestjs-elastic-transcoder)
 - 🔗 [The Healthy Program](https://thehealthyprogram.com)
   
 ## Organizations I'm working on 
@@ -53,6 +54,7 @@ society letting people gain money and improve them quality life.
 - 🪣 (NestJS & Docker) [NestJS with Docker](https://github.com/nestjs-with-docker)
 - 🪣 (NestJS & Kafka) [Kafka Microservice](https://github.com/fdorantesm/kafka-microservice)
 - 🪣 (NestJS & Passport) [NestJS Passport Api Key Auth](https://github.com/fdorantesm/nestjs-passport-apikey-authentication)
+- 🪣 (NestJS & DynamicModule) [NestJS DynamicModuleTemplate](https://github.com/fdorantesm/nestjs-dynamic-module-template)
 
 
 <br/>  
