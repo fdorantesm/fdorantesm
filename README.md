@@ -26,6 +26,8 @@ society letting people gain money and improve them quality life.
 - 📦 [AsynkStorage](https://npmjs.com/package/asynkstorage)
 - 📦 [AsApp](https://npmjs.com/package/asapp)
 - 📦 [ElasticTranscoderModule](https://npmjs.com/package/nestjs-elastic-transcoder)
+- 📦 [PugModule](https://npmjs.com/package/nestjs-pug)
+- 📦 [OpenAiModule](https://npmjs.com/package/nestjs-open-ai-api)
 - 🔗 [The Healthy Program](https://thehealthyprogram.com)
   
 ## Organizations I'm working on 
@@ -34,6 +36,7 @@ society letting people gain money and improve them quality life.
 
 - 🪣 [NestJS Examples](https://github.com/nestjs-examples)
 - 🪣 [NestJS Latam](https://github.com/nestjs-latam)
+- 🪣 [NestJS Libs](https://github.com/nestjs-libs)
 
 ## Technical challenges I made
 
