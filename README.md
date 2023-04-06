@@ -28,6 +28,7 @@ society letting people gain money and improve them quality life.
 - 📦 [ElasticTranscoderModule](https://npmjs.com/package/nestjs-elastic-transcoder)
 - 📦 [PugModule](https://npmjs.com/package/nestjs-pug)
 - 📦 [OpenAiModule](https://npmjs.com/package/nestjs-open-ai-api)
+- 📦 [PollyModule](https://npmjs.com/package/nestjs-polly)
 - 🔗 [The Healthy Program](https://thehealthyprogram.com)
   
 ## Organizations I'm working on 
