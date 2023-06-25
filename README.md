@@ -60,7 +60,8 @@ society letting people gain money and improve them quality life.
 - 🪣 (NestJS & Kafka) [Kafka Microservice](https://github.com/fdorantesm/kafka-microservice)
 - 🪣 (NestJS & Passport) [NestJS Passport Api Key Auth](https://github.com/fdorantesm/nestjs-passport-apikey-authentication)
 - 🪣 (NestJS & DynamicModule) [NestJS Dynamic Module Template](https://github.com/fdorantesm/nestjs-dynamic-module-template)
-- 🪣 (NestJS & Module) [NestJS Static Module Template](https://github.com/fdorantesm/nestjs-static-module-template)
+- 🪣 (NestJS & StaticModule) [NestJS Static Module Template](https://github.com/fdorantesm/nestjs-static-module-template)
+- 🪣 (NestJS & ~HEX) [NestJS MongoDB Hexagonal Template](https://github.com/fdorantesm/nestjs-mongodb-hexagonal-template)
 
 ## Examples
 
