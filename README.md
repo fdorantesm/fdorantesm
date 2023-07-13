@@ -171,12 +171,19 @@ society letting people gain money and improve them quality life.
 <br/>  
 
 <div align="center">
+          <div>
+            <a href="https://www.buymeacoffee.com/fdorantesm" target="_blank">
+              <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=fdorantesm&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff">
+              </a>
+            </div>
+          <br>
+          <div>
             <a href="https://paypal.me/fdorantesm" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>  
+                <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
+            </a>
+          </div>
+
+</div>  
 
 <br/>  
 
