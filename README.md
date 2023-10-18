@@ -29,7 +29,10 @@ society letting people gain money and improve them quality life.
 - 📦 [PugModule](https://npmjs.com/package/nestjs-pug)
 - 📦 [OpenAiModule](https://npmjs.com/package/nestjs-open-ai-api)
 - 📦 [PollyModule](https://npmjs.com/package/nestjs-polly)
+- 📦 [NestJS UUID](https://www.npmjs.com/package/nestjs-uuid)
+- 📦 [NestJS Pug](https://www.npmjs.com/package/nestjs-pug)
 - 📦 [Node Package Manager Deep Installer](https://www.npmjs.com/package/npmdi)
+- 📦 [Mongoose Anonymoose](https://www.npmjs.com/package/mongoose-anonymoose)
 - 🔗 [The Healthy Program](https://thehealthyprogram.com)
   
 ## Organizations I'm working on 
