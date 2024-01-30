@@ -13,7 +13,7 @@ society letting people gain money and improve them quality life.
 - 🔭 I’m currently working on [MoradaMX](https://github.com/moradaMX)
 - 🌱 I’m currently learning React Native and NextJS
 - ❓ Ask me about anything related to Node stacks and related technologies
-- 📄 Get my resume [here](https://s3.us-east-2.amazonaws.com/dorant.es/cv-full-stack-developer-fernando-dorantes.pdf)  
+- 📄 Get my resume [here](https://s3.us-east-2.amazonaws.com/dorant.es/cv-full-stack-developer-fernando-dorantes-en.pdf)  
 
 
 ## Featured projects  
@@ -51,6 +51,8 @@ society letting people gain money and improve them quality life.
 - 🪣 (NestJS & MongoDB) [Wordle API](https://github.com/fdorantesm/wordle-api)
 - 🪣 (NestJS & MongoDB) [DNA API](https://github.com/fdorantesm/dna)
 - 🪣 (NestJS & PostgreSQL) [Another Technical Test](https://github.com/fdorantesm/another-technical-test)
+- 🪣 (NestJS & MongoDB) [Pokeapi PDF](https://github.com/fdorantesm/pokeapi)
+- 🪣 (NestJS & Third party integration) [Cream](https://github.com/fdorantesm/cream)
   
 ## Templates
 
@@ -65,6 +67,8 @@ society letting people gain money and improve them quality life.
 - 🪣 (NestJS & DynamicModule) [NestJS Dynamic Module Template](https://github.com/fdorantesm/nestjs-dynamic-module-template)
 - 🪣 (NestJS & StaticModule) [NestJS Static Module Template](https://github.com/fdorantesm/nestjs-static-module-template)
 - 🪣 (NestJS & ~HEX) [NestJS MongoDB Hexagonal Template](https://github.com/fdorantesm/nestjs-mongodb-hexagonal-template)
+- 🪣 (NestJS & ~HEX) [NestJS MongoDB Hexagonal Minimal Template]([https://github.com/fdorantesm/nestjs-mongodb-hexagonal-template](https://github.com/fdorantesm/nestjs-mongodb-minimal-boilerplate)
+- 🪣 (NestJS & ~HEX) [NestJS MongoDB Hexagonal Microservice (API Key) Template]([https://github.com/fdorantesm/nestjs-mongodb-hexagonal-template](https://github.com/fdorantesm/nestjs-mongodb-microservice-minimal-boilerplate)
 
 ## Examples
 
