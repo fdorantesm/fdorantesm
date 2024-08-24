@@ -20,7 +20,7 @@ society letting people gain money and improve them quality life.
 
 <br>
 
-- 📦 [Gosp Sass](https://gosp-sass.com)
+- 📦 [Gosp Sass](https://sassoned.com)
 - 📦 [Envpack](https://npmjs.com/package/envpack)
 - 📦 [Moppet](https://npmjs.com/package/moppet)
 - 📦 [AsynkStorage](https://npmjs.com/package/asynkstorage)
@@ -34,6 +34,11 @@ society letting people gain money and improve them quality life.
 - 📦 [Node Package Manager Deep Installer](https://www.npmjs.com/package/npmdi)
 - 📦 [Mongoose Anonymoose](https://www.npmjs.com/package/mongoose-anonymoose)
 - 📦 [Cryptaculous](https://npmjs.com/package/cryptaculous)
+- 📦 [TS DDD](https://npmjs.com/package/@ts-ddd/common)
+- 📦 [TS DDD Entity](https://npmjs.com/package/@ts-ddd/entity)
+- 📦 [TS DDD State Machine](https://npmjs.com/package/@ts-ddd/state-machine)
+- 📦 [TS DDD Value Object](https://npmjs.com/package/@ts-ddd/value-object)
+
 
 ## My freelance projects
 - 🔗 [The Healthy Program](https://thehealthyprogram.com)
