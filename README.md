@@ -1,22 +1,21 @@
-<img src="https://s3.us-east-2.amazonaws.com/dorant.es/1638689003987.jpg" align="center" width="100%">
+<img src="https://cdn.dorant.es/1638689003987.jpg" align="center" width="100%">
 <br />
 <br />
 
-### <div align="center">Hi, I'm nano!</div>  
+### <div align="center">Hi, I'm nano!</div>
+
 <br>
 
 I am passionate about building products, microservices and ecosystems that impacts
 society letting people gain money and improve them quality life.
-<br><br>  
-  
+<br><br>
 
 - 🔭 I’m currently working on [MoradaMX](https://github.com/moradaMX)
 - 🌱 I’m currently learning React Native and NextJS
 - ❓ Ask me about anything related to Node stacks and related technologies
-- 📄 Get my resume [here](https://s3.us-east-2.amazonaws.com/dorant.es/cv-full-stack-developer-fernando-dorantes-en.pdf)  
+- 📄 Get my resume [here](https://cdn.dorant.es/en-cv-full-stack-developer-fernando-dorantes.pdf)
 
-
-## Featured projects  
+## Featured projects
 
 <br>
 
@@ -39,11 +38,11 @@ society letting people gain money and improve them quality life.
 - 📦 [TS DDD State Machine](https://npmjs.com/package/@ts-ddd/state-machine)
 - 📦 [TS DDD Value Object](https://npmjs.com/package/@ts-ddd/value-object)
 
-
 ## My freelance projects
+
 - 🔗 [The Healthy Program](https://thehealthyprogram.com)
-  
-## Organizations I'm working on 
+
+## Organizations I'm working on
 
 <br>
 
@@ -61,7 +60,7 @@ society letting people gain money and improve them quality life.
 - 🪣 (NestJS & PostgreSQL) [Another Technical Test](https://github.com/fdorantesm/another-technical-test)
 - 🪣 (NestJS & MongoDB) [Pokeapi PDF](https://github.com/fdorantesm/pokeapi)
 - 🪣 (NestJS & Third party integration) [Cream](https://github.com/fdorantesm/cream)
-  
+
 ## Templates
 
 <br>
@@ -82,14 +81,15 @@ society letting people gain money and improve them quality life.
 
 - 🪣 (NestJS Polly Example)[https://github.com/fdorantesm/nestjs-polly-example]
 
-
 <br/>  
-<br/>  
+<br/>
 
-## My Skill Set  
+## My Skill Set
+
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Frontend
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -109,9 +109,8 @@ society letting people gain money and improve them quality life.
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -126,9 +125,8 @@ society letting people gain money and improve them quality life.
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -141,13 +139,14 @@ society letting people gain money and improve them quality life.
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
-## Github Stats  
+## Github Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdorantesm&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=jolly" align="center" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdorantesm&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=jolly?ts=123" align="center" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdorantesm&layout=compact&langs_count=16&theme=jolly" align="center"/>
 </div>  
 <!-- GITHUB STATUS -->
@@ -173,17 +172,16 @@ society letting people gain money and improve them quality life.
 <a href="https://codepen.com/fdorantesm" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
 <br/>  
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=fdorantesm&&style=flat-square" align="center" />
-</div> 
+</div>
 
-<br/>  
+<br/>
 
 <div align="center">
           <div>
@@ -198,12 +196,12 @@ society letting people gain money and improve them quality life.
             </a>
           </div>
 
-</div>  
+</div>
 
-<br/>  
-
+<br/>
 
 <br />
 
-----
+---
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
